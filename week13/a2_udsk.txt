@@ -1,0 +1,2 @@
+# Nmap 7.99 scan initiated Fri Nov 27 15:08:28 2026 as: /usr/lib/nmap/nmap --privileged -oN a2_udsk.txt 192.168.56.10
+# Nmap done at Fri Nov 27 15:08:30 2026 -- 1 IP address (0 hosts up) scanned in 1.46 seconds
